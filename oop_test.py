@@ -1,0 +1,3 @@
+#instance method
+#classmethod
+#staticmethod
